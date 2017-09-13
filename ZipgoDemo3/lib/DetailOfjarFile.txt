@@ -1,0 +1,7 @@
+Apache Commons Codec » 1.10
+
+The Apache Commons Codec package contains simple encoder and decoders for various formats such as Base64 and Hexadecimal. In addition to these widely used encoders and decoders, the codec package also maintains a collection of phonetic encoding utilities. 
+
+Apache Commons Logging » 1.2
+
+Apache Commons Logging is a thin adapter allowing configurable bridging to other, well known logging systems. 
